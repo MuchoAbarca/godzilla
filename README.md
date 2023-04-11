@@ -1,3 +1,6 @@
+# godzilla
+GODZILLA learns to code to crush the new society 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
